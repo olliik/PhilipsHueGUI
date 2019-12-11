@@ -10,3 +10,5 @@ Basic functionalities for switching your lights on/off, setting the brightness a
 3. kivy_venv\Scripts\activate
 4. get the URL and the username from your HUE bridge and edit in to the code 
 5. python app.py
+
+![GUI](/images/GUI1.PNG) ![GUI](/images/GUI2.PNG) 
