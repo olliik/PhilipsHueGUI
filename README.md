@@ -1,4 +1,4 @@
-"# PhilipsHueGUI" 
+# PhilipsHueGUI
 
 Small project for my personal use. Graphical user interface built for controlling Philips Hue smart lights.
 Basic functionalities for switching your lights on/off, setting the brightness and selecting a color.
@@ -13,5 +13,9 @@ Basic functionalities for switching your lights on/off, setting the brightness a
 3. kivy_venv\Scripts\activate
 4. get the URL and the username from your HUE bridge and edit in to the code 
 5. python app.py
+
+# Requirements
+- < Python 3.5
+- Kivy 1.11.1
 
 ![GUI](/images/GUI1.PNG) ![GUI](/images/GUI2.PNG) 
